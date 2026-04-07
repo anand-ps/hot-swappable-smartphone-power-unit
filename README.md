@@ -63,7 +63,7 @@ The system includes an application layer that enables intelligent configuration 
 ## Engineering Outcome
 A complete modular battery ecosystem was designed, implemented, and validated. The system integrates mechanical enclosure design, embedded electronics, and intelligent control systems into a production-oriented solution, demonstrating strong capability across power electronics and real-world product engineering.
 
-[Explore full details of the Smart Swap Battery Unit](https://anandps.in/projects/hot-swappable-smartphone-power-unit/index.html)
+[Explore the complete architecture of the Hot Swappable Smartphone Power Unit](https://anandps.in/projects/hot-swappable-smartphone-power-unit/index.html)
 
 ## Project Contributors
 The system was designed and implemented by:
