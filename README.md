@@ -74,8 +74,8 @@ The system was designed and implemented by:
     - **Links**: [LinkedIn](https://www.linkedin.com/in/anand-ps) | [GitHub](https://github.com/anand-ps) | [Email](mailto:anandps.dev@gmail.com)
 
 - **Gopika Gopikrishnan**
-    - **Designation**: Software Developer
-    - **Bio**: Software developer specializing in distributed systems and scalable backend architecture. Experienced in building high-performance applications using React, TypeScript, Node.js, and Go, with expertise in databases like Aerospike and ArangoDB. Focused on performance optimization, system reliability, and designing robust, production-grade solutions.
+    - **Designation**: Researcher
+    - **Bio**: Specializing in Deep Learning for Signal Porcessing. Experienced in building frameworks for on-device learning for ultrasound systems. Skilled in PyTorch, Python, MATLAB.
     - **Links**: [LinkedIn](https://www.linkedin.com/in/gopika-g-krishnan) | [GitHub](https://github.com/gopikagopikrishnan) | [Email](mailto:gopikagopikrishnan@gmail.com)
 
 ---
